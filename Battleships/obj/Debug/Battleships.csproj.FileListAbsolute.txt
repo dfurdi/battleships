@@ -1,0 +1,11 @@
+C:\Users\Crysi\source\repos\Battleships\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\Crysi\source\repos\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\Crysi\source\repos\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.csprojAssemblyReference.cache
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.Form1.resources
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.Form2.resources
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.cache
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.exe
+C:\Users\Crysi\source\repos\Battleships\Battleships\obj\Debug\Battleships.pdb
